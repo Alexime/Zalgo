@@ -1,0 +1,12 @@
+{
+  "name": "Zalgo Bot",
+  "version": "2.0.0",
+  "description": "he cometh",
+  "main": "index.js",
+  "author": "Beat The Meatles",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.6.0",
+    "discord.js": "^11.5.1"
+  }
+}
